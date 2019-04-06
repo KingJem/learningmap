@@ -10,7 +10,7 @@ numpy
 [jupyter notebook 可以在线运行，用实际的代码教你学numpy](https://github.com/rougier/numpy-100)
 [panadas] 
 
-## 数据可视化
+# 数据可视化
 
 可以做为一个插件的
 [pandastable](https://pandastable.readthedocs.io/en/latest/dataexplore.html)
@@ -22,7 +22,7 @@ pyecharts
 
 plotly
 
-## web开发
+# web开发
 
 Djnango 
 
@@ -32,7 +32,19 @@ Flask
 
 tornado
 
-## 爬虫
+# 爬虫
 
 scrapy 
 portia
+
+# 爬虫数据持久化
+
+
+mysql数据库
+
+redis 数据库 
+
+# go语言教程
+
+
+[go语言在线教程，支持中文和在线编辑]（https://tour.golang.org）
