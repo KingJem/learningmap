@@ -47,4 +47,11 @@ redis 数据库
 # go语言教程
 
 
-[go语言在线教程，支持中文和在线编辑]（https://tour.golang.org）
+[go语言在线教程，支持中文和在线编辑]（https://tour.go-zh.org）
+[go 语言入门指南 12K star] (https://github.com/KingJem/the-way-to-go_ZH_CN)
+
+# 算法和数据结构
+[leecode git题库]（https://github.com/search?utf8=%E2%9C%93&q=LeetCode+python&type=）
+
+# 博客主题
+[cnblog主题设置] (https://github.com/search?q=cnblog%E4%B8%BB%E9%A2%98)
