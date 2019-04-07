@@ -1,15 +1,21 @@
 # Python 学习路线图及资源
 
 # GUI编程
-[Github项目 Tkinter by example]( https://github.com/Dvlv/Tkinter-By-Example)
 
-pyqt5
+[Github项目 Tkinter by example]( https://github.com/Dvlv/Tkinter-By-Example)
+[配套电子书](https://github.com/Dvlv/Tkinter-By-Example/blob/master/Tkinter-By-Example.pdf)
+
+
+
+
+[pyqt5中文教程，解释每一段代码的含义](https://github.com/maicss/PyQt5-Chinese-tutorial)
 
 ## 数据分析和数据可视化的基础
 numpy 
 [jupyter notebook 可以在线运行，用实际的代码教你学numpy](https://github.com/rougier/numpy-100)
 
-[panadas] 
+
+[panadas](http://pandas.org)
 
 # 数据可视化
 
@@ -49,6 +55,7 @@ redis 数据库
 
 
 [go语言在线教程，支持中文和在线编辑](https://tour.go-zh.org)
+
 [go 语言入门指南 12K star](https://github.com/KingJem/the-way-to-go_ZH_CN)
 
 # 算法和数据结构
