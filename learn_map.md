@@ -2,7 +2,11 @@
 
 # GUI编程
 
+## tkinter
 [Github项目 Tkinter by example]( https://github.com/Dvlv/Tkinter-By-Example)
+[effbot 文档](http://effbot.org/tkinterbook/)
+
+## pyqt5
 [配套电子书](https://github.com/Dvlv/Tkinter-By-Example/blob/master/Tkinter-By-Example.pdf)
 
 
