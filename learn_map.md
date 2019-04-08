@@ -5,10 +5,14 @@
 ## tkinter
 [Github项目 Tkinter by example]( https://github.com/Dvlv/Tkinter-By-Example)
 [effbot 文档](http://effbot.org/tkinterbook/)
+[tkinter的一个designer，可以像在qtdesign那样创建UI文件](https://github.com/alejandroautalan/pygubu)
+
 
 ## pyqt5
 [配套电子书](https://github.com/Dvlv/Tkinter-By-Example/blob/master/Tkinter-By-Example.pdf)
-
+ 
+## appjar
+[简单的gui库](http://appjar.info/)
 
 
 
