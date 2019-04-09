@@ -50,6 +50,8 @@ tornado
 # 爬虫
 
 scrapy 
+
+
 portia
 
 # 爬虫数据持久化
@@ -59,7 +61,14 @@ mysql数据库
 
 redis 数据库 
 
+# git 教程
+
+
+[在线学git](https://learngitbranching.js.org)
+
+
 # go语言教程
+
 
 
 [go语言在线教程，支持中文和在线编辑](https://tour.go-zh.org)
